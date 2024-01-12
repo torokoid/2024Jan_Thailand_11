@@ -132,23 +132,33 @@ p.note { display: none; }
 <h2><span class="yellow">12日はチェンライ最終日、金曜日だけ開催される市場を散策！</span></h2>
 <h2><span class="yellow">広場のアヒルは早起き</span></h2>
 <a href="20240112_001.JPG" data-lightbox="abc"><img src="20240112_001.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">朝の一杯は生ココナッツジュース</span></h2>
 <a href="20240112_002.JPG" data-lightbox="abc"><img src="20240112_002.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">実もいただきます</span></h2>
 <a href="20240112_003.JPG" data-lightbox="abc"><img src="20240112_003.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">家電製品は日本製が駆逐された？</span></h2>
 <a href="20240112_004.JPG" data-lightbox="abc"><img src="20240112_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_005.JPG" data-lightbox="abc"><img src="20240112_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_006.JPG" data-lightbox="abc"><img src="20240112_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">朝ごはんセット、ご飯は餅米で手でちぎって食べます</span></h2>
 <a href="20240112_007.JPG" data-lightbox="abc"><img src="20240112_007.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お空は珍しく曇りです</span></h2>
 <a href="20240112_008.JPG" data-lightbox="abc"><img src="20240112_008.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">こちらは常設の市場</span></h2>
 <a href="20240112_009.JPG" data-lightbox="abc"><img src="20240112_009.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">元気なお姉さんはノーヘル、ノーグラスでほぼ100km/hクルーズ</span></h2>
 <a href="20240112_010.JPG" data-lightbox="abc"><img src="20240112_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">市場到着</span></h2>
 <a href="20240112_011.JPG" data-lightbox="abc"><img src="20240112_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_012.JPG" data-lightbox="abc"><img src="20240112_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_013.JPG" data-lightbox="abc"><img src="20240112_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_014.JPG" data-lightbox="abc"><img src="20240112_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_015.JPG" data-lightbox="abc"><img src="20240112_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_016.JPG" data-lightbox="abc"><img src="20240112_016.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">お寿司もどき</span></h2>
 <a href="20240112_017.JPG" data-lightbox="abc"><img src="20240112_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_018.JPG" data-lightbox="abc"><img src="20240112_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ワンちゃんも売られてます</span></h2>
 <a href="20240112_019.JPG" data-lightbox="abc"><img src="20240112_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_020.JPG" data-lightbox="abc"><img src="20240112_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_021.JPG" data-lightbox="abc"><img src="20240112_021.JPG" alt="サンプル画像" width="900" /></a>
@@ -166,6 +176,7 @@ p.note { display: none; }
 <a href="20240112_033.JPG" data-lightbox="abc"><img src="20240112_033.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_034.JPG" data-lightbox="abc"><img src="20240112_034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_035.JPG" data-lightbox="abc"><img src="20240112_035.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">白人さんも食べ歩き</span></h2>
 <a href="20240112_036.JPG" data-lightbox="abc"><img src="20240112_036.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_037.JPG" data-lightbox="abc"><img src="20240112_037.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_038.JPG" data-lightbox="abc"><img src="20240112_038.JPG" alt="サンプル画像" width="900" /></a>
@@ -174,8 +185,11 @@ p.note { display: none; }
 <a href="20240112_041.JPG" data-lightbox="abc"><img src="20240112_041.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_042.JPG" data-lightbox="abc"><img src="20240112_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_043.JPG" data-lightbox="abc"><img src="20240112_043.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">高校生は男女ともガリガリが目立ちました</span></h2>
 <a href="20240112_044.JPG" data-lightbox="abc"><img src="20240112_044.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">スマホ向けたら、笑顔いただきました</span></h2>
 <a href="20240112_045.JPG" data-lightbox="abc"><img src="20240112_045.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">厚底サンダルありました、100バーツ、約400円</span></h2>
 <a href="20240112_046.JPG" data-lightbox="abc"><img src="20240112_046.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_047.JPG" data-lightbox="abc"><img src="20240112_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_048.JPG" data-lightbox="abc"><img src="20240112_048.JPG" alt="サンプル画像" width="900" /></a>
@@ -184,17 +198,23 @@ p.note { display: none; }
 <a href="20240112_051.JPG" data-lightbox="abc"><img src="20240112_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_052.JPG" data-lightbox="abc"><img src="20240112_052.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_053.JPG" data-lightbox="abc"><img src="20240112_053.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">ユニクロPRするお姉さん</span></h2>
 <a href="20240112_054.JPG" data-lightbox="abc"><img src="20240112_054.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_055.JPG" data-lightbox="abc"><img src="20240112_055.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">チェンライ最終日の夕焼けが綺麗に焼けました</span></h2>
 <a href="20240112_056.JPG" data-lightbox="abc"><img src="20240112_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_057.JPG" data-lightbox="abc"><img src="20240112_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_058.JPG" data-lightbox="abc"><img src="20240112_058.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">チェンライ国際飛行場</span></h2>
 <a href="20240112_059.JPG" data-lightbox="abc"><img src="20240112_059.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">バンコク向け機内食</span></h2>
 <a href="20240112_060.JPG" data-lightbox="abc"><img src="20240112_060.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">バンコクの夜景</span></h2>
 <a href="20240112_061.JPG" data-lightbox="abc"><img src="20240112_061.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_062.JPG" data-lightbox="abc"><img src="20240112_062.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_063.JPG" data-lightbox="abc"><img src="20240112_063.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_064.JPG" data-lightbox="abc"><img src="20240112_064.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">タクシーの仏教系装飾、運転視界を遮るレベル</span></h2>
 <a href="20240112_065.JPG" data-lightbox="abc"><img src="20240112_065.JPG" alt="サンプル画像" width="900" /></a>
 
 
