@@ -194,6 +194,7 @@ p.note { display: none; }
 <a href="20240112_047.JPG" data-lightbox="abc"><img src="20240112_047.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_048.JPG" data-lightbox="abc"><img src="20240112_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_049.JPG" data-lightbox="abc"><img src="20240112_049.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">迷彩服をPRするお兄さん</span></h2>
 <a href="20240112_050.JPG" data-lightbox="abc"><img src="20240112_050.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_051.JPG" data-lightbox="abc"><img src="20240112_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_052.JPG" data-lightbox="abc"><img src="20240112_052.JPG" alt="サンプル画像" width="900" /></a>
@@ -205,7 +206,7 @@ p.note { display: none; }
 <a href="20240112_056.JPG" data-lightbox="abc"><img src="20240112_056.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_057.JPG" data-lightbox="abc"><img src="20240112_057.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240112_058.JPG" data-lightbox="abc"><img src="20240112_058.JPG" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">チェンライ国際飛行場</span></h2>
+<h2><span class="yellow">チェンライ国際空港</span></h2>
 <a href="20240112_059.JPG" data-lightbox="abc"><img src="20240112_059.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">バンコク向け機内食</span></h2>
 <a href="20240112_060.JPG" data-lightbox="abc"><img src="20240112_060.JPG" alt="サンプル画像" width="900" /></a>
@@ -216,8 +217,8 @@ p.note { display: none; }
 <a href="20240112_064.JPG" data-lightbox="abc"><img src="20240112_064.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">タクシーの仏教系装飾、運転視界を遮るレベル</span></h2>
 <a href="20240112_065.JPG" data-lightbox="abc"><img src="20240112_065.JPG" alt="サンプル画像" width="900" /></a>
-
-
+<br>
+<h2><span class="yellow">13日はいよいよ帰国となります</span></h2>
 
 
 
